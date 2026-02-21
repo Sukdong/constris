@@ -1,3 +1,5 @@
 /target
 nul
 .claude/
+.idea
+.DS_Store
